@@ -17,6 +17,7 @@ doesn't appear on the program even if you run your program form the starting
 
 https://user-images.githubusercontent.com/83778809/147591953-3ed1368e-d26e-4b07-9346-4634ae9ecc82.mp4
 
-**CLICKING CHECK BUTTON MEANS I ALREADY KNOW THIS WORD AND CLICKING CROSS BUTTON MEANS I DON'T THIS WORD**
+- **CLICKING CHECK BUTTON MEANS I ALREADY KNOW THIS WORD**
+- **CLICKING CROSS BUTTON MEANS I DON'T THIS WORD**
 
 
